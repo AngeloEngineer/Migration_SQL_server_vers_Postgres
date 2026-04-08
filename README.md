@@ -7,6 +7,8 @@ Pour ce faire nous utiliserons:
 - Jupyter Notebook
 
 
+# Pseudocode
+
 # Préface
 
 ## Haut niveau
